@@ -5,3 +5,5 @@ https://www.freecodecamp.org/news/build-your-first-javascript-github-action/
 
 Also includes an action to the bump version in package.json.
 https://github.com/marketplace/actions/update-version-in-package-json
+
+This repo is just for testing out Github actions.
